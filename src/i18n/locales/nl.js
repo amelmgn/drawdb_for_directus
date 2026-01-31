@@ -231,6 +231,9 @@ const nl = {
     generic: "Generiek",
     generic_description:
       "Generieke diagrammen kunnen naar elke SQL-variant worden geëxporteerd, maar ondersteunen weinig gegevenstypen.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Enum toevoegen",
     edit_enum: "{{extra}} Enum {{enumName}} bewerken",

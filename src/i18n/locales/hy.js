@@ -227,6 +227,9 @@ const hy = {
     generic: "Ընդհանուր",
     generic_description:
       "Ընդհանուր սխեմաները կարող են արտահանվել ցանկացած SQL տիպի, բայց աջակցում են քիչ տվյալների տեսակներ։",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enum-ներ",
     add_enum: "Ավելացնել enum",
     edit_enum: "{{extra}} Խմբագրել enum {{enumName}}",

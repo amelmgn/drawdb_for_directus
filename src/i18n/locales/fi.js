@@ -231,6 +231,9 @@ const fi = {
     generic: "Yleinen",
     generic_description:
       "Yleiset kaaviot voidaan viedä mihin tahansa SQL-tyyppiin, mutta ne tukevat vain muutamia tietotyyppejä.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Luettelot",
     add_enum: "Lisää luettelo",
     edit_enum: "{{extra}} Muokkaa luetteloa {{enumName}}",

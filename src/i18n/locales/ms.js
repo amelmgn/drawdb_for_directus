@@ -229,6 +229,9 @@ const ms = {
     generic: "Generik",
     generic_description:
       "Rajah generik boleh dieksport ke mana-mana dialek SQL, tetapi tidak semua jenis data disokong.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enum",
     add_enum: "Tambah enum",
     edit_enum: "{{extra}} Edit enum {{enumName}}",

@@ -229,8 +229,11 @@ const es = {
     not_found: "No encontrado",
     pick_db: "Elegir base de datos",
     generic: "Genérico",
-    generic_description: 
-      "Los diagramas genéricos se pueden exportar a cualquier formato SQL, pero soportan un número limitado de tipos de datos.", 
+    generic_description:
+      "Los diagramas genéricos se pueden exportar a cualquier formato SQL, pero soportan un número limitado de tipos de datos.",
+    directus: "Directus",
+    directus_description:
+      "Dibuja ERD para modelos de datos de Directus con soporte para características específicas de Directus.",
     enums: "Enumeraciones",
     add_enum: "Añadir enumeración",
     edit_enum: "{{extra}} Editar enumeración {{enumName}}",

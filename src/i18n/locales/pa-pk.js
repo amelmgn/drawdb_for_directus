@@ -230,6 +230,9 @@ const pa_pk = {
     generic: "عام",
     generic_description:
       "عام ڈایاگرام کسے وی SQL ذائقے وچ برآمد کیتے جا سکدے نیں پر کچھ ڈیٹا دی قسماں دی حمایت کردے نیں۔",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Enum شامل کرو",
     edit_enum: "{{extra}} Enum {{enumName}} ترمیم کرو",

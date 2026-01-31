@@ -221,6 +221,9 @@ const ar = {
     generic: "عام",
     generic_description:
       "يمكن تصدير المخططات العامة إلى أي نوع SQL ولكن تدعم أنواع بيانات قليلة.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "القيم المعدودة",
     add_enum: "إضافة قيمة معدودة",
     edit_enum: "{{extra}} تحرير القيمة المعدودة {{enumName}}",

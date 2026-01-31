@@ -224,6 +224,9 @@ const ko = {
     generic: "일반",
     generic_description:
       "일반 다이어그램은 모든 SQL 유형으로 내보낼 수 있지만 지원하는 데이터 유형이 적습니다.",
+    directus: "Directus",
+    directus_description:
+      "Directus 고유 기능을 지원하는 Directus 데이터 모델용 ERD를 그립니다.",
     enums: "열거형",
     add_enum: "열거형 추가",
     edit_enum: "{{extra}} 열거형 {{enumName}} 수정",

@@ -226,6 +226,9 @@ const it = {
     generic: "Generico",
     generic_description:
       "I diagrammi generici possono essere esportati in qualsiasi formato SQL, ma supportano un numero limitato di tipi di dati.",
+    directus: "Directus",
+    directus_description:
+      "Disegna ERD per modelli di dati Directus con supporto per funzionalità specifiche di Directus.",
     enums: "Enums",
     add_enum: "Aggiungi enum",
     edit_enum: "{{extra}} Modifica enum {{enumName}}",

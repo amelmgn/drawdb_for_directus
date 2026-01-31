@@ -231,6 +231,9 @@ const en = {
     generic: "Generic",
     generic_description:
       "Generic diagrams can be exported to any SQL flavor but support few data types.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Add enum",
     edit_enum: "{{extra}} Edit enum {{enumName}}",

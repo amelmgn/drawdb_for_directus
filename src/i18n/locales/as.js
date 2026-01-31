@@ -233,6 +233,9 @@ const as = {
       generic: "জেনাৰিক",
       generic_description:
         "জেনাৰিক ডায়াগ্ৰামসমূহ যিকোনো SQL ফ্লেভাৰৰ বাবে ৰপ্তানি কৰিব পৰা যায় কিন্তু কম ডাটা টাইপ সমৰ্থন কৰে।",
+      directus: "Directus",
+      directus_description:
+        "Draw ERD for Directus data models with support for Directus-specific features.",
       enums: "এনামসমূহ",
       add_enum: "এনাম যোগ কৰক",
       edit_enum: "{{extra}} এনাম সম্পাদনা কৰক {{enumName}}",

@@ -235,6 +235,9 @@ const pa = {
     generic: "ਜੈਨਰਿਕ",
     generic_description:
       "ਜੈਨਰਿਕ ਡਾਯਾਗ੍ਰਾਮਾਂ ਨੂੰ ਕਿਸੇ ਵੀ SQL ਫਲੇਵਰ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਪਰ ਘੱਟ ਡੇਟਾ ਕਿਸਮਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਨ।",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "ਇਨੱਮ",
     add_enum: "ਇਨੱਮ ਸ਼ਾਮਲ ਕਰੋ",
     edit_enum: "{{extra}} ਇਨੱਮ ਸੋਧੋ {{enumName}}",

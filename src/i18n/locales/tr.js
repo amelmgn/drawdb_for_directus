@@ -225,6 +225,9 @@ const tr = {
     generic: "Genel",
     generic_description:
       "Genel diyagramlar herhangi bir SQL türüne dışa aktarılabilir ancak az sayıda veri türünü destekler.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Enum ekle",
     edit_enum: "{{extra}} Enum'u düzenle {{enumName}}",

@@ -223,6 +223,9 @@ const zh = {
     generic: "通用",
     generic_description:
       "通用图表可以导出为任何 SQL 格式，但仅支持有限的数据类型。",
+    directus: "Directus",
+    directus_description:
+      "为 Directus 数据模型绘制 ERD，支持 Directus 特定功能。",
     enums: "枚举",
     add_enum: "添加枚举",
     edit_enum: "{{extra}} 编辑枚举 {{enumName}}",

@@ -236,6 +236,9 @@ const ka = {
     generic: "ಸಾಮಾನ್ಯ",
     generic_description:
       "ಸಾಮಾನ್ಯ ಚಿತ್ರಗಳನ್ನು ಯಾವುದೇ SQL ರುಚಿಗೆ ರಫ್ತು ಮಾಡಬಹುದು ಆದರೆ ಕೆಲವು ಡೇಟಾ ಪ್ರಕಾರಗಳನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "ಎನಮ್‌ಗಳು",
     add_enum: "ಎನಮ್ ಅನ್ನು ಸೇರಿಸಿ",
     edit_enum: "{{extra}} ಎನಮ್ ಅನ್ನು ಸಂಪಾದಿಸಿ {{enumName}}",

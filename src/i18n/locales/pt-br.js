@@ -227,6 +227,9 @@ const pt = {
     generic: "Genérico",
     generic_description:
       "Diagramas genéricos podem ser exportados para qualquer tipo de SQL, mas suportam poucos tipos de dados.",
+    directus: "Directus",
+    directus_description:
+      "Desenhe ERD para modelos de dados Directus com suporte para recursos específicos do Directus.",
     enums: "Enums",
     add_enum: "Adicionar enum",
     edit_enum: "{{extra}} Editar enum {{enumName}}",

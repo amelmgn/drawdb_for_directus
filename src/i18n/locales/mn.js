@@ -240,6 +240,9 @@ const mn = {
     generic: "Ердийн",
     generic_description:
       "Ердийн диаграмм SQL бүх хэлбэрт экспортлогдох бололцоотой ч зарим өгөгдлийн төрлүүд хязгаарлагдмал.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enum-ууд",
     add_enum: "Enum нэмэх",
     edit_enum: "Enum засах {{enumName}} {{extra}}",

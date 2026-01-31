@@ -230,6 +230,8 @@ const bn = {
     pick_db: "একটি ডাটাবেস নির্বাচন করুন",
     generic: "জেনেরিক",
     generic_description: "জেনেরিক ডায়াগ্রামগুলি যে কোনও SQL ফ্লেভারে এক্সপোর্ট করা যেতে পারে কিন্তু এতে অল্প কিছু ডেটা টাইপেরই সাপোর্ট আছে।",
+    directus: "Directus",
+    directus_description: "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "এনামস",
     add_enum: "এনাম যোগ করুন",
     edit_enum: "{{extra}} এনাম {{enumName}} এডিট করুন",

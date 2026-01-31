@@ -231,6 +231,9 @@ const bg = {
         generic: "Generic",
         generic_description:
             "Generic диаграмите могат да бъдат експортирани към всеки SQL вариант, но поддържат малко типове данни.",
+        directus: "Directus",
+        directus_description:
+            "Draw ERD for Directus data models with support for Directus-specific features.",
         enums: "Enums",
         add_enum: "Добави enum",
         edit_enum: "{{extra}} Редактирай enum {{enumName}}",

@@ -220,6 +220,9 @@ const ru = {
     generic: "Общий",
     generic_description:
       "Общие диаграммы можно экспортировать в любой вариант SQL, но они поддерживают несколько типов данных.",
+    directus: "Directus",
+    directus_description:
+      "Создание ERD для моделей данных Directus с поддержкой специфичных функций Directus.",
     enums: "Перечисления",
     add_enum: "Добавить перечисление",
     edit_enum: "{{extra}} Изменить перечисление {{enumName}}",

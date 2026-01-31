@@ -227,6 +227,9 @@ const de = {
     generic: "Generisch",
     generic_description:
       "Generische Diagramme können nach jedem SQL Dialekt exportiert werden, unterstützen aber nur wenige Datentypen.",
+    directus: "Directus",
+    directus_description:
+      "Erstellen Sie ERD für Directus-Datenmodelle mit Unterstützung für Directus-spezifische Funktionen.",
     enums: "Aufzählungen",
     add_enum: "Aufzählung hinzufügen",
     edit_enum: "{{extra}} Aufzählung {{enumName}} bearbeiten",

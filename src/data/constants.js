@@ -111,6 +111,7 @@ export const DB = {
   MARIADB: "mariadb",
   ORACLESQL: "oraclesql",
   GENERIC: "generic",
+  DIRECTUS: "directus",
 };
 
 export const IMPORT_FROM = {

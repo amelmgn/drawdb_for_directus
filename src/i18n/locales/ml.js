@@ -215,6 +215,9 @@ const ml = {
         pick_db: "ഒരു ഡാറ്റാബേസ് തിരഞ്ഞെടുക്കുക",
         generic: "ജനറിക്",
         generic_description: "ജനറിക് ഡയഗ്രമുകൾ ഏത് SQL ഫ്ലേവറിലേക്കും എക്സ്പോർട്ട് ചെയ്യാം, പക്ഷേ കുറച്ച് ഡാറ്റാ ടൈപ്പുകൾ മാത്രമേ സപ്പോർട്ട് ചെയ്യൂ.",
+        directus: "Directus",
+        directus_description:
+            "Draw ERD for Directus data models with support for Directus-specific features.",
         enums: "എനംസ്",
         add_enum: "എനം ചേർക്കുക",
         edit_enum: "{{extra}} എനം {{enumName}} എഡിറ്റ് ചെയ്യുക",

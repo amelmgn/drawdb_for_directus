@@ -220,6 +220,9 @@ const he = {
     generic: "כללי",
     generic_description:
       "דיאגרמות כלליות יכולות להיות מיוצאות לכל SQL אך תומכות בסוגי נתונים מועטים.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "מנויים",
     add_enum: "הוסף מנוי",
     edit_enum: "{{extra}} ערוך מנוי {{enumName}}",

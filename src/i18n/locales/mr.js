@@ -227,6 +227,9 @@ const mr = {
     generic: "जेनेरिक",
     generic_description:
       "जेनेरिक डायग्राम कोणत्याही SQL फ्लेवरमध्ये निर्यात केले जाऊ शकतात परंतु काही डेटा प्रकारांचे समर्थन करतात.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "इनम्स",
     add_enum: "इनम जोडा",
     edit_enum: "{{extra}} इनम संपादित करा {{enumName}}",

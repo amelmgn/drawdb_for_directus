@@ -231,6 +231,9 @@ const ur = {
     generic: "عام",
     generic_description:
       "عام ڈایاگرام کسی بھی SQL ذائقے میں برآمد کیے جا سکتے ہیں لیکن کچھ ڈیٹا کی اقسام کی حمایت کرتے ہیں۔",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Enum شامل کریں",
     edit_enum: "{{extra}} Enum {{enumName}} ترمیم کریں",

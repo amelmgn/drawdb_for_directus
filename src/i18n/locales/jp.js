@@ -228,6 +228,9 @@ const jp = {
     generic: "一般",
     generic_description:
       "一般的なダイアグラムは任意のSQL方言にエクスポートできますが、データタイプのサポートは限定的です。",
+    directus: "Directus",
+    directus_description:
+      "Directus固有の機能をサポートしたDirectusデータモデルのERDを描画します。",
     enums: "列挙型",
     add_enum: "列挙型を追加",
     edit_enum: "{{extra}} 列挙型 {{enumName}} を編集",

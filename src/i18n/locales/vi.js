@@ -228,6 +228,9 @@ const vi = {
     generic: "Chung",
     generic_description:
       "Các sơ đồ chung có thể được xuất sang bất kỳ kiểu SQL nào nhưng hỗ trợ ít kiểu dữ liệu.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Thêm enum",
     edit_enum: "{{extra}} Chỉnh sửa enum {{enumName}}",

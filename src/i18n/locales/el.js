@@ -228,6 +228,9 @@ const el = {
     generic: "Γενικό",
     generic_description:
       "Γενικά διαγράμματα μπορούν να εξαχθούν σε οποιαδήποτε διάλεκτο SQL, αλλά δεν υποστηρίζουν όλοι οι τύποι δεδομένων.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Προσθήκη enum",
     edit_enum: "{{extra}} Επεξεργασία enum {{enumName}}",

@@ -225,6 +225,9 @@ const cz = {
     generic: "Obecný",
     generic_description:
       "Obecné diagramy lze exportovat do libovolného jazyka SQL, ale podporují jen několik datových typů.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "enum",
     add_enum: "Přidat enum",
     edit_enum: "{{extra}} Upravit enum {{enumName}}",

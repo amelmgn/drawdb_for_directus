@@ -233,6 +233,9 @@ const sw = {
     generic: "Ya jumla",
     generic_description:
       "Michoro ya jumla inaweza kuhamishwa kwa lahaja yoyote ya SQL, lakini si aina zote za data zinazunguzwa.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Ongeza enum",
     edit_enum: "{{extra}} Hariri enum {{enumName}}",

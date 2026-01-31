@@ -241,6 +241,9 @@ const hu = {
     generic: "Általános",
     generic_description:
       "Az általános diagramok bármilyen fajta SQL-be exportálhatóak, de kevés adattípust támogatnak.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enum-ok",
     add_enum: "Új enum",
     edit_enum: "{{extra}} {{enumName}} enum szerkesztése",

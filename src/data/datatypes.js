@@ -2252,6 +2252,7 @@ const dbToTypesBase = {
   [DB.MSSQL]: mssqlTypes,
   [DB.MARIADB]: mariadbTypes,
   [DB.ORACLESQL]: oraclesqlTypes,
+  [DB.DIRECTUS]: defaultTypes,
 };
 
 export const dbToTypes = new Proxy(dbToTypesBase, {

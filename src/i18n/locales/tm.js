@@ -244,6 +244,9 @@ const tm = {
     generic: "பொதுவான",
     generic_description:
       "பொதுவான வரைபடங்கள் எந்த SQL வடிவத்திற்கும் ஏற்றுமதி செய்யப்படும் ஆனால் சில தரவு வகைகளையே ஆதரிக்கும்.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "எண்ணல்கள்",
     add_enum: "எண்ணல் சேர்",
     edit_enum: "{{extra}} {{enumName}} எண்ணலைத் திருத்து",

@@ -224,6 +224,9 @@ const no = {
     generic: "Generisk",
     generic_description:
       "Generiske diagrammer kan eksporteres til alle SQL-varianter, men støtter få datatyper.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enum-er",
     add_enum: "Legg til enum",
     edit_enum: "{{extra}} Rediger enum {{enumName}}",

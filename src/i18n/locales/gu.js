@@ -231,6 +231,9 @@ const gu = {
     generic: "સામાન્ય",
     generic_description:
       "સામાન્ય ડાયાગ્રામ્સ કોઈપણ SQL ફ્લેવરમાં નિકાસ કરી શકાય છે પરંતુ થોડા ડેટા પ્રકારોને સપોર્ટ કરે છે.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "ઇનમ્સ",
     add_enum: "Enum ઉમેરો",
     edit_enum: "{{extra}} Enum {{enumName}} સંપાદિત કરો",

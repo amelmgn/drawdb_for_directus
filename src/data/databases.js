@@ -59,6 +59,13 @@ export const databases = new Proxy(
       description: i18n.t("generic_description"),
       hasTypes: true,
     },
+    [DB.DIRECTUS]: {
+      name: i18n.t("directus"),
+      label: DB.DIRECTUS,
+      image: null,
+      description: i18n.t("directus_description"),
+      hasTypes: true,
+    },
   },
   { get: (target, prop) => (prop in target ? target[prop] : {}) },
 );

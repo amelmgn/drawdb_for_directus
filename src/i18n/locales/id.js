@@ -235,6 +235,9 @@ const id = {
     generic: "Generik",
     generic_description:
       "Diagram generik dapat diekspor ke SQL mana pun tetapi mendukung sedikit tipe data.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enums",
     add_enum: "Tambah enum",
     edit_enum: "{{extra}} Edit enum {{enumName}}",

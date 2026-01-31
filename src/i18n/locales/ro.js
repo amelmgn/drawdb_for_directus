@@ -226,6 +226,9 @@ const ro = {
     generic: "General",
     generic_description:
       "Diagramele generale pot fi exportate în orice tip de SQL, dar susțin câteva tipuri de date.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Enumerații",
     add_enum: "Adaugă enumerație",
     edit_enum: "{{extra}} Editează enumerația {{enumName}}",

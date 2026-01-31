@@ -225,6 +225,9 @@ const pl = {
     generic: "Ogólny",
     generic_description:
       "Ogólne diagramy mogą być eksportowane do dowolnego dialektu SQL, ale obsługują niewiele typów danych.",
+    directus: "Directus",
+    directus_description:
+      "Draw ERD for Directus data models with support for Directus-specific features.",
     enums: "Wyliczenia",
     add_enum: "Dodaj wyliczenie",
     edit_enum: "{{extra}} Edytuj wyliczenie {{enumName}}",
